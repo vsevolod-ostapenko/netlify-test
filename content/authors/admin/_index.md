@@ -30,8 +30,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Durham University
+    url: www.durham.ac.uk/business
 education:
   courses:
     - course: PhD in Artificial Intelligence
