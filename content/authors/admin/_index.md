@@ -1,5 +1,5 @@
 ---
-avatar_filename: photo_antalya-2.jpeg
+avatar_filename: avatar.jpeg
 bio: ""
 interests:
   - Artificial Intelligence
