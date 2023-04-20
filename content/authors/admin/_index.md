@@ -1,8 +1,7 @@
 ---
 title: Vsevolod Ostapenko
 role: Assistant Professor of Economics (Teaching)
-bio: Hi! My research interests include distributed robotics, mobile computing
-  and programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
