@@ -31,7 +31,7 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: Durham University
-    url: www.durham.ac.uk/business
+    url: https://www.durham.ac.uk/business
 education:
   courses:
     - course: PhD in Artificial Intelligence
