@@ -1,6 +1,5 @@
 ---
-title: Vsevolod Ostapenko
-role: Assistant Professor of Economics (Teaching)
+avatar_filename: photo_antalya-2.jpeg
 bio: ""
 interests:
   - Artificial Intelligence
@@ -46,7 +45,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Assistant Professor of Economics (Teaching)
 highlight_name: true
+title: Vsevolod Ostapenko
 first_name: Alice
 email: ""
 ---
