@@ -56,4 +56,6 @@ Hi everyone, and welcome to my website!
 My name is Vsevolod, with the short version Seva \[sɛ'vɑ]. I work at Durham University Business School, currently holding a position of Assistant Professor on the teaching track in the Department of Economics. 
 
 I specialize in a broad area of macroeconomics...
+
+
 {style="text-align: justify;"}
