@@ -45,12 +45,15 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Assistant Professor of Economics (Teaching)
+role: Assistant Professor of Economics
 highlight_name: true
 title: Vsevolod Ostapenko
 first_name: Alice
 email: ""
 ---
+Hi everyone, and welcome to my website!
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Vsevolod, with the short version Seva \[sɛ'vɑ]. I work at the Durham University Business School, currently holding a position of Assistant Professor on the teaching track in the Department of Economics. 
+
+I specialize in a broad area of macroeconomics...
 {style="text-align: justify;"}
